@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kumpulan Doa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail_doa">Detail Doa</string>
+    <string name="nama">Hai, Annisa Tahira</string>
+    <string name="deskripsi">Jadwal Sholat Hari ini</string>
+    <string name="salam">Assalamualaikum</string>
+    <string name="kampus">STT Terpadu Nurul Fikri</string>
+    <string name="titik_dua"> : </string>
+</resources>
